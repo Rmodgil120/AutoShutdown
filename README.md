@@ -16,5 +16,5 @@ You can download the base version through the releases menu or via the link give
   - Run it!
 # Screenshots
 
-![Screenshot 2024-11-25 182614](https://github.com/user-attachments/assets/a278abb6-5f04-401d-9a68-0706ca8a4826)
-![Screenshot 2024-11-25 182644](https://github.com/user-attachments/assets/1bb12262-443a-4459-905e-3e5cfb6421d0)
+![Screenshot 2024-11-25 182614](https://github.com/user-attachments/assets/a278abb6-5f04-401d-9a68-0706ca8a4826) ![Screenshot 2024-11-25 182644](https://github.com/user-attachments/assets/1bb12262-443a-4459-905e-3e5cfb6421d0)
+
