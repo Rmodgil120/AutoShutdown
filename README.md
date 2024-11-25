@@ -11,6 +11,6 @@ Here we have a very basic GUI with only what is necessary approach.
   - Cancel Shutdown button to stop the automatic shutdown procedure
 
 # How to download it?
-You can download the base version through the releases menu or via the link give on the TOP of the readme. 
+You can download the base version through the releases menu or via the link given on the TOP. 
   - Download the exe file on your system
   - Run it!
