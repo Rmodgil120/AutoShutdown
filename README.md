@@ -1,3 +1,5 @@
+# Download: [Link](https://github.com/Rmodgil120/AutoShutdown/releases/)
+
 # AutoShutdown
 Simple application to automatically shutdown your PC after a set amount of time.
 
@@ -9,6 +11,6 @@ Here we have a very basic GUI with only what is necessary approach.
   ~ Cancel Shutdown button to stop the automatic shutdown procedure
 
 # How to download it?
-You can download the base version through the release menu. 
+You can download the base version through the release menu or via the link give on the TOP of the readme. 
   ~ Download the exe file on your system
   ~ Run it!
