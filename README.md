@@ -14,3 +14,7 @@ Here we have a very basic GUI with only what is necessary approach.
 You can download the base version through the releases menu or via the link given on the TOP. 
   - Download the exe file on your system
   - Run it!
+# Screenshots
+
+![Screenshot 2024-11-25 182614](https://github.com/user-attachments/assets/a278abb6-5f04-401d-9a68-0706ca8a4826)
+![Screenshot 2024-11-25 182644](https://github.com/user-attachments/assets/1bb12262-443a-4459-905e-3e5cfb6421d0)
