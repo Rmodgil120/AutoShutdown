@@ -17,4 +17,4 @@ You can download the base version through the releases menu or via the link give
 # Screenshots
 
 ![Screenshot 2024-11-25 190803](https://github.com/user-attachments/assets/e7fb11f5-e8c0-4ab7-80e6-1bcf2f4f0544)
-![Screenshot 2024-11-25 190803](https://github.com/user-attachments/assets/4d5a7dda-d794-42c9-8f46-ee9c803be5e5)
+![Screenshot 2024-11-25 190710](https://github.com/user-attachments/assets/ba24bbdd-4c3d-48c7-bc00-25a2f6714fbb)
